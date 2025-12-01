@@ -10,6 +10,6 @@
   - Наблюдаемый результат - **При добавлении в корзину пицца отображаться без скидки 10%**
 - Найден в версиях - **https://slqamsk.github.io/cases/pizza/ Версия без ошибок**
 - Критичность - **Высокая**
-- Приоритет - 1 место
+- Приоритет - **Высокий**
 <img width="428" height="372" alt="{5189E01B-6C1C-49E3-A7B4-9A4ED5FF9FF5}" src="https://github.com/user-attachments/assets/038d6fe1-89a3-4629-83be-db275fca515a" />
 <img width="1371" height="412" alt="{3FFD6F98-902D-40A2-9DE3-3149B5A82BC6}" src="https://github.com/user-attachments/assets/b3786551-b485-4cbb-b31a-e52b6e0c67a1" />
